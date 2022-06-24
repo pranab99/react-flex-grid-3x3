@@ -1,0 +1,26 @@
+.fitems{
+    height: 400px;
+    width: 700px;
+    background-color: royalblue;
+    border:red solid 2px;
+    margin: 5px;
+
+}
+.fcontainer1{
+    background-color: black;
+    color: white;
+    display: flex;
+    /* border: gray 2px solid; */
+    height: 50%;
+    width: 100%;
+    justify-content:space-evenly;
+}
+.fcontainer2{
+    background-color: black;
+    color: white;
+    display: flex;
+    /* border: gray 2px solid; */
+    height: 50%;
+    width: 100%;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,228 @@
+{
+  "xs": {
+    "root": true,
+    "alignment": "vertical",
+    "height": "100%",
+    "width": "100%",
+    "spacing": "15",
+    "content": [
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "call-workboard-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      },
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "correspondence-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      }
+    ]
+  },
+  "sm": {
+    "root": true,
+    "alignment": "vertical",
+    "height": "100%",
+    "width": "100%",
+    "spacing": "15",
+    "content": [
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "call-workboard-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      },
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "correspondence-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      }
+    ]
+  },
+  "md": {
+    "root": true,
+    "alignment": "vertical",
+    "height": "100%",
+    "width": "100%",
+    "spacing": "15",
+    "content": [
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "call-workboard-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      },
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "correspondence-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      }
+    ]
+  },
+  "lg": {
+    "root": true,
+    "alignment": "vertical",
+    "height": "100%",
+    "width": "100%",
+    "spacing": "15",
+    "content": [
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "call-workboard-card",
+            "width": "33.33%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "33.33%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "33.33%",
+            "height": "100%"
+          }
+        ]
+      },
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "correspondence-card",
+            "width": "33.33%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "33.33%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "33.33%",
+            "height": "100%"
+          }
+
+        ]
+      }
+    ]
+  },
+  "xl": {
+    "root": true,
+    "alignment": "vertical",
+    "height": "100%",
+    "width": "100%",
+    "spacing": "15",
+    "content": [
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "call-workboard-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "pending-query-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      },
+      {
+        "height": "50%",
+        "width": "100%",
+        "alignment": "horizontal",
+        "content": [
+          {
+            "component": "correspondence-card",
+            "width": "50%",
+            "height": "100%"
+          },
+          {
+            "component": "missed-call-card",
+            "width": "50%",
+            "height": "100%"
+          }
+        ]
+      }
+    ]
+  }
+}
